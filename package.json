@@ -1,6 +1,6 @@
 {
   "name": "@browserless.io/browserless",
-  "version": "2.21.1",
+  "version": "2.22.0-beta-2",
   "license": "SSPL",
   "description": "The browserless platform",
   "author": "browserless.io",
@@ -61,7 +61,7 @@
     "playwright-1.44": "npm:playwright-core@1.44.1",
     "playwright-1.45": "npm:playwright-core@1.45.3",
     "playwright-1.46": "npm:playwright-core@1.46.1",
-    "playwright-core": "^1.47.2",
+    "playwright-core": "^1.48.0",
     "puppeteer-core": "^23.5.1",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
@@ -95,7 +95,7 @@
     "prettier": "^3.3.3",
     "sinon": "^19.0.2",
     "ts-node": "^10.9.2",
-    "typescript": "^5.6.2",
+    "typescript": "^5.6.3",
     "typescript-json-schema": "^0.65.1"
   },
   "playwrightVersions": {
